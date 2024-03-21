@@ -1,0 +1,54 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Santa Catarina
+Casos Prováveis por Município infecção e Semana epidem. 1º Sintomas(s)
+UF F.infecção: 42 Santa Catarina
+Class. Final: Dengue Clássico, Dengue com complicações, Febre Hemorrágica do Dengue, Síndrome do Choque do Dengue, Dengue, Dengue com sinais de alarme
+Criterio conf.: Laboratórial, Clínico-epidemiológico
+Período:2015
+Fonte: Ministério da Saúde/SVSA - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB
+ (Coordenação Geral de Vigilância de Arboviroses - CGARB) em sua série histórica, que para tal, realiza análise ano a ano, com a base congelada para cada ano analisado.
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de
+ alarme e dengue grave) é necessário considerar também o critério de confirmação (laboratorial e clínico-epidemiológico).
+ A partir de 2020 o estado do Espírito Santo passou a utilizar o sistema e-SUS Vigilância em Saúde. Portanto, para os casos de Arboviroses urbanas do Espírito Santo
+ foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikungunya) e Sinan Net (zika).
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos e semana epidemiológica, em cada período pode apresentar notificações com data de
+ notificação do ano anterior (semana epidemiológica 52 ou 53) e posterior (semana epidemiológica 01).
+ Para cálculo da incidência recomenda-se utilizar locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 23/07/2021.
+ Dados de 2021 atualizados em 12/07/2022.
+ Dados de 2022 atualizados em 18/07/2023.
+ Dados de 2023 atualizados em 04/03/2024 à 01 hora, sujeitos à revisão.
+ Dados de 2024 atualizados em 11/03/2024 às 08 horas, sujeitos à revisão.
+ * Dados disponibilizados no TABNET em março de 2024.
+"Município infecção";"Semana 01";"Semana 02";"Semana 03";"Semana 04";"Semana 05";"Semana 06";"Semana 07";"Semana 08";"Semana 09";"Semana 10";"Semana 11";"Semana 12";"Semana 13";"Semana 14";"Semana 15";"Semana 16";"Semana 17";"Semana 18";"Semana 19";"Semana 20";"Semana 21";"Semana 22";"Semana 23";"Semana 24";"Semana 25";"Semana 26";"Semana 28";"Semana 29";"Semana 32";"Semana 33";"Semana 38";"Semana 40";"Semana 48";"Semana 49";"Semana 50";"Semana 51";"Semana 52";"Semana 53";"Total"
+"420130 ARAQUARI";-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"420200 BALNEARIO CAMBORIU";-;-;-;-;-;-;-;-;-;2;-;-;-;-;-;-;1;-;-;1;-;-;-;2;-;-;-;-;-;-;-;-;-;-;-;-;-;-;6
+"420240 BLUMENAU";-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"420245 BOMBINHAS";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;2
+"420257 BOM JESUS DO OESTE";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1
+"420300 CACADOR";-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"420380 CANOINHAS";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"420420 CHAPECO";-;-;-;-;-;-;-;-;-;-;-;5;1;6;6;4;2;4;3;1;2;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;35
+"420435 CORDILHEIRA ALTA";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"420450 CORUPA";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"420570 GAROPABA";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"420640 GUARACIABA";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+"420750 INDAIAL";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;1
+"420820 ITAJAI";6;11;25;66;95;129;129;133;177;237;309;281;259;283;249;194;146;141;92;93;55;28;16;12;6;1;-;-;1;1;1;-;-;1;-;-;-;1;3178
+"420830 ITAPEMA";-;-;-;-;-;-;-;-;-;-;-;4;-;2;-;3;3;9;1;1;-;3;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;27
+"420910 JOINVILLE";-;-;-;-;-;-;-;-;1;-;-;-;-;1;-;1;2;1;2;-;1;1;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;11
+"421020 MAJOR GERCINO";-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"421090 MODELO";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;1
+"421290 PINHALZINHO";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2;-;1;-;-;-;3
+"421720 SAO MIGUEL DO OESTE";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+"421870 TUBARAO";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;2
+"Ignorado - BR";1;-;-;-;-;1;-;-;1;-;-;1;-;-;1;1;-;-;-;1;-;-;-;-;-;-;-;1;-;-;-;1;-;-;-;1;-;-;10
+"Total";7;11;25;66;95;130;130;133;179;240;309;292;260;293;257;205;157;155;98;97;59;32;18;15;7;1;1;1;1;1;2;1;3;2;1;2;2;1;3289 
