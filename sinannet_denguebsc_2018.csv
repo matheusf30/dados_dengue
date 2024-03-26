@@ -4,8 +4,16 @@ UF F.infecção: 42 Santa Catarina
 Class. Final: Dengue Clássico, Dengue com complicações, Febre Hemorrágica do Dengue, Síndrome do Choque do Dengue, Dengue, Dengue com sinais de alarme
 Criterio conf.: Laboratórial, Clínico-epidemiológico
 Período:2018
- Fonte: Ministério da Saúde/SVSA - Sistema de Informação de Agravos de Notificação - Sinan Net
+"Município infecção";"Semana 02";"Semana 11";"Semana 13";"Semana 14";"Semana 15";"Semana 16";"Semana 17";"Semana 18";"Semana 20";"Semana 21";"Semana 22";"Semana 23";"Semana 26";"Semana 31";"Semana 39";"Total"
+"420200 BALNEARIO CAMBORIU";-;-;-;-;-;-;-;2;-;1;-;1;1;1;-;6
+"420320 CAMBORIU";-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
+"420830 ITAPEMA";-;2;1;1;5;6;7;1;1;1;1;-;-;-;-;26
+"420940 LAGUNA";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1
+"421320 POMERODE";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"Total";1;2;1;1;5;6;7;3;2;2;1;1;1;1;1;35
+Fonte: Ministério da Saúde/SVSA - Sistema de Informação de Agravos de Notificação - Sinan Net
  Notas:
+ 
  Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
  As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB
  (Coordenação Geral de Vigilância de Arboviroses - CGARB) em sua série histórica, que para tal, realiza análise ano a ano, com a base congelada para cada ano analisado.
@@ -26,12 +34,6 @@ Período:2018
  Dados de 2021 atualizados em 12/07/2022.
  Dados de 2022 atualizados em 18/07/2023.
  Dados de 2023 atualizados em 04/03/2024 à 01 hora, sujeitos à revisão.
- Dados de 2024 atualizados em 11/03/2024 às 08 horas, sujeitos à revisão.
+ Dados de 2024 atualizados em 18/03/2024 às 01:26 horas, sujeitos à revisão.
  * Dados disponibilizados no TABNET em março de 2024.
-"Município infecção";"Semana 02";"Semana 11";"Semana 13";"Semana 14";"Semana 15";"Semana 16";"Semana 17";"Semana 18";"Semana 20";"Semana 21";"Semana 22";"Semana 23";"Semana 26";"Semana 31";"Semana 39";"Total"
-"420200 BALNEARIO CAMBORIU";-;-;-;-;-;-;-;2;-;1;-;1;1;1;-;6
-"420320 CAMBORIU";-;-;-;-;-;-;-;-;1;-;-;-;-;-;-;1
-"420830 ITAPEMA";-;2;1;1;5;6;7;1;1;1;1;-;-;-;-;26
-"420940 LAGUNA";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1
-"421320 POMERODE";1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
-"Total";1;2;1;1;5;6;7;3;2;2;1;1;1;1;1;35
+ 
