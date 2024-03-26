@@ -4,8 +4,14 @@ UF F.infecção: 42 Santa Catarina
 Class. Final: Dengue Clássico, Dengue com complicações, Febre Hemorrágica do Dengue, Síndrome do Choque do Dengue, Dengue, Dengue com sinais de alarme
 Criterio conf.: Laboratórial, Clínico-epidemiológico
 Período:2017
+"Município infecção";"Semana 01";"Semana 10";"Semana 27";"Total"
+"420640 GUARACIABA";-;1;-;1
+"420820 ITAJAI";-;-;1;1
+"Ignorado - BR";1;-;-;1
+"Total";1;1;1;3
 Fonte: Ministério da Saúde/SVSA - Sistema de Informação de Agravos de Notificação - Sinan Net
  Notas:
+ 
  Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
  As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB
  (Coordenação Geral de Vigilância de Arboviroses - CGARB) em sua série histórica, que para tal, realiza análise ano a ano, com a base congelada para cada ano analisado.
@@ -26,10 +32,6 @@ Fonte: Ministério da Saúde/SVSA - Sistema de Informação de Agravos de Notificaçã
  Dados de 2021 atualizados em 12/07/2022.
  Dados de 2022 atualizados em 18/07/2023.
  Dados de 2023 atualizados em 04/03/2024 à 01 hora, sujeitos à revisão.
- Dados de 2024 atualizados em 11/03/2024 às 08 horas, sujeitos à revisão.
+ Dados de 2024 atualizados em 18/03/2024 às 01:26 horas, sujeitos à revisão.
  * Dados disponibilizados no TABNET em março de 2024.
-"Município infecção";"Semana 01";"Semana 10";"Semana 27";"Total"
-"420640 GUARACIABA";-;1;-;1
-"420820 ITAJAI";-;-;1;1
-"Ignorado - BR";1;-;-;1
-"Total";1;1;1;3
+ 
